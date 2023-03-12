@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "envy": "^2.0.0",
+    "node-fetch": "^2.6.9"
+  }
+}
